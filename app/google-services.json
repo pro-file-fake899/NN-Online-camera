@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "641643867143",
+    "firebase_url": "https://rohangallery-app-default-rtdb.firebaseio.com",
+    "project_id": "rohangallery-app",
+    "storage_bucket": "rohangallery-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641643867143:android:a62915136005255de74ea2",
+        "android_client_info": {
+          "package_name": "com.nn.onlinecamera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQPQINw8s1Xrlbyb6RSzCr3CP6hzs2OXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
